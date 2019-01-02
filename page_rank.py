@@ -1,6 +1,6 @@
 # encoding: utf-8
 """
-@author: hetao 
+@author: hetao
 @contact: he_tao@shannonai.com
 
 @version: 1.0
